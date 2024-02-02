@@ -1,5 +1,4 @@
-I have finished this project using Spring Boot because I am not familiar with Laravel or Node.js.
-I attempted to generate Swagger API documentation, but encountered a bug or issue on my laptop, preventing me from providing it.
+I have finished this project using Spring Boot .
 I have tested my code using Postman API.
 
 These steps using Postman to interact with the Spring Boot API.
